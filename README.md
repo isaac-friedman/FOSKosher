@@ -15,7 +15,7 @@ Here's where we get to the good stuff.
 - The repository is organized in a carefully-constructed directory tree. Recipes go in the bottom-most directory that suits them. This is to ensure that similar recipes are grouped together.
 - All recipes are to be formatted in GitHub-style Markdown. This is to ensure openness and compatibility.
 - Recipe titles are to adhere strictly to the following format:
-    - [Ease of Preparation]\ [Total Prep Time]\ [Recipe Name].md
+    - [Ease of Preparation]\[Total Prep Time][Recipe Name].md
     - Adherence to this format ensures ease of finding a recipe that best suits the user's needs
 - All are welcome to submit their own recipes and suggest changes to others.
     - To submit your own recipes, BRANCH the repository, add your own, and submit a pull request. Keep your branch open, because that's how you will make changes to your own recipes.
