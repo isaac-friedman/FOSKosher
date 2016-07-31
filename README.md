@@ -17,8 +17,8 @@ Here's where we get to the good stuff.
 - Recipe titles are to adhere strictly to the following format:
     - [Ease of Preparation]\[Total Prep Time][Recipe Name].md
         - Ease of Preparation should be either Beginner, Easy, Intermediate, Hard, or Advanced
-        - Total prep time should be the start-to-finish time it takes to complete the recipe, formatted as hh:mm
-            - For example, [02:45] indicates 2hrs and 45min prep time  
+        - Total prep time should be the start-to-finish time it takes to complete the recipe, formatted as hh-mm
+            - For example, [02-45] indicates 2hrs and 45min prep time  
     - Adherence to this format ensures ease of finding a recipe that best suits the user's needs.
     - Make sure recipe names are descriptive, but avoid duplicates.
 - All are welcome to submit their own recipes and suggest changes to others.
