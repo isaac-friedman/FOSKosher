@@ -4,11 +4,11 @@ The first-ever online open-source kosher cookbook!
 ---
 
 ### What is this?
-The recent success of sites like Sepharia has shown that the open-source spirit is alive and kicking in the observant Jewish world, and what better way to utilize that collaborative spirit than to use it to help us all do what we all love to do: eat!
+The recent success of sites like Sefaria has shown that the open-source spirit is alive and kicking in the observant Jewish world, and what better way to utilize that collaborative spirit than to use it to help us all do what we all love to do: eat!
 
 ### Goals
 The goal of this project is to create an online, collaborative repository of kosher recipes in the open-source spirit. That means that anyone can copy and use any of this information any way they want, and anyone can contribute to this repository to help make better kosher food for everyone.
-The guidelines I am putting in place will ideally help to ensure ease-of-use and portability, and should also enable other uses for this information, such as third-party applications, analytics, and such.
+The guidelines I am putting in place will ideally help to ensure ease-of-use and portability, and should also enable other uses for this information such as third-party applications, analytics, and such.
 
 ### Guidelines
 Here's where we get to the good stuff.
